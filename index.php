@@ -11,7 +11,7 @@
         <div id="login">
             <div class="box1">
                 <div class="box-texto">
-                    <h3>Login</h3>
+                    <h3>Iai moça</h3>
                     <p>Qual o melhor suco da face da terra kk? </p>
                     <input type="text" id="resposta" placeholder="Digita aqui neném: "/>
                     <button onclick="login()">Entrar</button>
