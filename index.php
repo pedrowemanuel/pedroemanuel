@@ -24,7 +24,7 @@
         <div class="box3" style="display: none;">
             <div class="box1">
                 <div class="box-texto">
-                    <p class="texto-baixo">Olá amor ❤️. Esses mês foi incrível e quanto mais o tempo passou mais eu fiquei feliz e apaixonado por você.</p>
+                    <p class="texto-baixo">Olá amor ❤️. Esse mês foi incrível e quanto mais o tempo passou mais eu fiquei feliz e apaixonado por você.</p>
                     <button onclick="trocarDePagina(4)">Próximo</button>
                 </div>
             </div>
@@ -35,7 +35,7 @@
         <div class="box4" style="display: none;">
             <div class="box1">
                 <div class="box-texto">
-                    <p class="texto-baixo"> Amor, você está sendo uma namorada maravilhosa, dedicada, fofa, preocupada ...</p>
+                    <p class="texto-baixo"> Você está sendo uma namorada maravilhosa, dedicada, fofa, preocupada ...</p>
                     <button onclick="trocarDePagina(5)">Próximo</button>
                 </div>
             </div>
@@ -46,7 +46,7 @@
         <div class="box5" style="display: none;">
             <div class="box1">
                 <div class="box-texto">
-                    <p class="texto-baixo"> Carinhosa, safada, divertida, enfim tudo de bom.</p>
+                    <p class="texto-baixo"> Carinhosa, gostosa, safada, divertida, enfim tudo de bom.</p>
                     <button onclick="trocarDePagina(6)">Próximo</button>
                 </div>
             </div>
@@ -69,7 +69,8 @@
             <div class="box1">
                 <div class="box-texto">
                     <p class="texto-baixo"> Não quero que acabe. Quero que a gente fique junto. Cresça junto. Vou te fazer feliz e te dar todo o amor que você merece.</p>
-                </div>
+                <h3>Te amo!</h3>
+</div>
             </div>
             <div class="box2">
                 <img src="img/i3.png" class="img-right" alt="">
