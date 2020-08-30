@@ -24,7 +24,7 @@
         <div class="box3" style="display: none;">
             <div class="box1">
                 <div class="box-texto">
-                    <p class="texto-baixo">Olá amor ❤️. Esse mês foi incrível e quanto mais o tempo passou mais eu fiquei feliz e apaixonado por você.</p>
+                    <p class="texto-baixo">Olá amor ❤️. Tá escrito errado de propósito kk, queria vários beijos. Esse mês foi incrível e quanto mais o tempo passou mais eu fiquei feliz e apaixonado por você.</p>
                     <button onclick="trocarDePagina(4)">Próximo</button>
                 </div>
             </div>
@@ -81,7 +81,7 @@
     <script src="jquery.min.js"></script>
     <script>
         function login() {
-            if ($("#resposta").val()  == "Maracujá") {
+            if ($("#resposta").val()  == "Maracuja") {
                 setTimeout(() => {
                     $("#login").fadeOut("slow");
                 }, 500);
