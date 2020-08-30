@@ -69,7 +69,8 @@
             <div class="box1">
                 <div class="box-texto">
                     <p class="texto-baixo"> Não quero que acabe. Quero que a gente fique junto. Cresça junto. Vou te fazer feliz e te dar todo o amor que você merece.</p>
-                <h3>TE AMO!</h3>
+
+       <h3>Beijos amor da minha 😘❤️</h3>
 </div>
             </div>
             <div class="box2">
