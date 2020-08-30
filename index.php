@@ -46,7 +46,7 @@
         <div class="box5" style="display: none;">
             <div class="box1">
                 <div class="box-texto">
-                    <p class="texto-baixo"> Carinhosa, gostosa, safada, linda para crl, divertida, enfim, tudo de bom.</p>
+                    <p class="texto-baixo"> Carinhosa, gostosa, linda para crl, divertida, enfim, tudo de bom.</p>
                     <button onclick="trocarDePagina(6)">Próximo</button>
                 </div>
             </div>
