@@ -1,4 +1,8 @@
 # Pedro Rodrigues - Portfólio
+
 - Sou programador web, com mais de 1 ano de experiência na área.
-- Estou qualificado para desenvolver as melhores e mais rápidas soluções digitais.
-- Crio desde sites performáticos e responsivos, até sistemas de grande porte, utilizando as melhores tecnologias do mercado.
+
+- Link: [http://pedroemanuel.herokuapp.com/](url)
+
+![Screenshot from 2020-11-15 22-57-59](https://user-images.githubusercontent.com/59898338/99205408-3a80da00-2797-11eb-9d06-d755f69ddf81.png)
+
